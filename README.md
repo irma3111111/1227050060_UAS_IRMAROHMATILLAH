@@ -1,3 +1,7 @@
+Ujian Akhir Semester
+
+Mata Kuliah : Dasar Pemrograman Nama : Irma Rohmatillah NIM : 1227050060 Jurusan :Teknik Informatika UIN Sunan Gunung Djati Bandung
+
 DESKRIPSI
 Menampilkan bilangan yang habis dibagi 3, 5 dan 7
 Pada program ini kita akan mengecek bilangan yang diinputkan apakah bisa dibagi dengan bilangan 3, 5, 7 atau tidak
