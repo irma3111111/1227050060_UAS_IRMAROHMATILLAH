@@ -123,41 +123,44 @@ Output
 
 UAS
 ====
-Nama : Muhammad Saifurridwani 'Ijazi
-NIM : 1227050094
+Nama : Irma Rohmatillah
+NIM  : 1227050060
 ======================================
 
 
 No.1 Mengubah baris jadi kolom dan kolom jadi baris (transpose)
 ===============================================================
-Masukkan jumlah baris matriks: 2
+Masukkan jumlah baris matriks: 3
 Masukkan jumlah kolom matriks: 2
 Masukkan Nilai-Nilai Matriks
 Baris ke 1, Kolom ke 1 : 2
 Baris ke 1, Kolom ke 2 : 3
 Baris ke 2, Kolom ke 1 : 4
 Baris ke 2, Kolom ke 2 : 5
+Baris ke 3, Kolom ke 1 : 6
+Baris ke 3, Kolom ke 2 : 7
 Hasil dari matriks yang diinputkan :
-2 3
-4 5
-
+2       3
+4       5
+6       7
 
 Hasil Transpose Matriks:
-2 4
-3 5
-
+2       4       6
+3       5       7
 
 No.2 Menampilkan bilangan yang habis dibagi 3, 5 dan 7
 ===============================================================
-Masukkan jumlah baris matriks: 2
+Masukkan jumlah baris matriks: 3
 Masukkan jumlah kolom matriks: 2
 Masukkan Nilai-Nilai
-(1,1) : 1
-(1,2) : 2
-(2,1) : 105
-(2,2) : 210
+(1,1) : 105
+(1,2) : 210
+(2,1) : 315
+(2,2) : 420
+(3,1) : 2
+(3,2) : 3
 
-
-Nilai yang bisa dibagi 3, 5, 7 yaitu :
-105
-210
+Nilai yang bisa dibagi 3, 5, 7 yaitu : 105
+ 210
+ 315
+ 420
